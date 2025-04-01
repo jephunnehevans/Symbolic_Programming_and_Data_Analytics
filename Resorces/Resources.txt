@@ -1,0 +1,33 @@
+
+
+
+This youtube video helps https://youtu.be/Ytq0tQtUeVk
+Its discription is below;
+"We're all familiar with the data science tools like numpy, pandas, and others. These are numerical tools working with floating point numbers, often to represent real-world systems. But what if you exactly specify the equations, symbolically like many of us did back in Calculus and Differential Equations courses? With SymPy, you can do exactly that. Create equations, integrate, differentiate, and solve them. Then you can convert those solutions into Python (or even C++ and Fortran code). We're here with two of the core maintainer: Ondřej Čertík and Aaron Meurer to learn all about SymPy.
+
+▬▬▬▬ About the podcast ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+This video is the uncut, live recording of the Talk Python To Me podcast ( https://talkpython.fm ). We cover Python-focused topics every week and publish the edited and polished version in audio form. Subscribe in your podcast player of choice (100% free) at https://talkpython.fm/subscribe.
+
+▬▬▬▬ Guests ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+Ondrej Certik:   / ondrejcertik  
+Aaron Meurer:   / asmeurer  
+
+▬▬▬▬ Links and resources from the show ▬▬▬▬▬▬▬▬▬▬▬▬
+
+SymPy: https://www.sympy.org/
+SymPy Docs: https://docs.sympy.org/dev/
+Tutorials: https://docs.sympy.org/dev/tutorial/f...
+The SymPy/HackerRank DMCA Incident: https://www.asmeurer.com/blog/posts/t...
+SymEngine: https://github.com/symengine/symengine
+SymPy Gamma: https://gamma.sympy.org/
+Solved derivative problem - wait for derivative steps to appear: https://gamma.sympy.org/input/?i=diff...
+Github Takedown Repo: https://github.com/github/dmca
+e: The Story of a Number book: https://www.amazon.com/Story-Number-P...
+
+Listen this episode on Talk Python: https://talkpython.fm/episodes/show/3...
+Episode transcripts: https://talkpython.fm/episodes/transc...
+
+▬▬▬▬ Dive deeper ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+Listen to the Talk Python To Me podcast at https://talkpython.fm Over 250 hours of Python courses at https://training.talkpython.fm/courses Follow us on on Mastodon. Michael: https://fosstodon.org/@mkennedy & Talk Python https://fosstodon.org/@talkpython"
