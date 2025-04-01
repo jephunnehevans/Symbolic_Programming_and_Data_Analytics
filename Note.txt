@@ -1,0 +1,7 @@
+What is a mathematical model?
+
+A mathematical model is an abstract description of a concrete system using mathematical concepts and language. It can be either a physical representation of mathematical concepts or a mathematical representation of reality. Mathematical models are powerful tools for understanding, prediction, and control of phenomena
+
+📊 Mathematical Model A mathematical model uses symbols and mathematical notation to represent relationships, often simplifying complex systems using equations. source
+📚 Theoretical Model A theoretical model provides a specific representation of relationships between variables within a theoretical framework, often depicted visually or mathematically. source
+🔍 Level of Abstraction Mathematical models are generally more abstract and focus on equations, while theoretical models are more concrete and specify relationships in a context or framework. source
